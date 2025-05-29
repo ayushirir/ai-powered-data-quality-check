@@ -19,3 +19,4 @@ A GCP-powered data quality engine that uses Python, BigQuery, Airflow, and LLMs 
 ```bash
 streamlit run app.py
 ```
+[![View on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-powered-data-quality-check-35rurwi7wvhfk58khqv9h4.streamlit.app/)
